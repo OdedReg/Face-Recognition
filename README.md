@@ -1,2 +1,2 @@
 # Face-Recognition
-This project implements a Siamese network for face recognition using PyTorch Lightning
+This project implements a Siamese network with one-shot learning for face recognition
